@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "ToDoList",
+    "name": "Kawaii To Do",
+    "description": "This project is really great",
     "slug": "ToDoList",
     "platforms": [
       "ios",
